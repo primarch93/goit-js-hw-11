@@ -18,7 +18,7 @@
     "url": "https://github.com/ChornyiYevhenii/goit-js-hw-11/issues"
   },
   "dependencies": {
-    "axios": "^1.2.3",
+    "axios": "^1.2.4",
     "modern-normalize": "^1.1.0",
     "notiflix": "^3.2.6",
     "simplelightbox": "^2.12.1"
